@@ -1,0 +1,22 @@
+== L1 LLM gestoppt
+ms 143 status ready mode SEMANTIC fallbackUsed False settlement transient
+   extractive 2 Können wir mehr Beispiele zur linearen Regression bearbeiten?
+   extractive 1 Ist Kapitel 4 klausurrelevant?
+   extractive 2 Sollten wir eine Anwesenheitspflicht einführen?
+   extractive 1 Müssen wir den vierten Abschnitt für die Prüfung lernen?
+== L2 LLM besetzt
+ms 172 status ready mode SEMANTIC fallbackUsed False settlement transient
+   extractive 2 Können wir mehr Beispiele zur linearen Regression bearbeiten?
+   extractive 1 Ist Kapitel 4 klausurrelevant?
+   extractive 2 Sollten wir eine Anwesenheitspflicht einführen?
+   extractive 1 Müssen wir den vierten Abschnitt für die Prüfung lernen?
+== L3 Label-Timeout 1000 ms
+ms 2142 status ready mode SEMANTIC fallbackUsed False settlement transient
+   extractive 2 Können wir mehr Beispiele zur linearen Regression bearbeiten?
+   extractive 1 Ist Kapitel 4 klausurrelevant?
+   extractive 2 Sollten wir eine Anwesenheitspflicht einführen?
+   extractive 1 Müssen wir den vierten Abschnitt für die Prüfung lernen?
+== L4 Encoder tot (Kontrast)
+ms 83 status failed mode THEME fallbackUsed True settlement None
+   None 2 lineare Regression
+   None 1 Kapitel 4

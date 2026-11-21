@@ -1,0 +1,18 @@
+== E1 timeout isoliert 1
+  "ackMs": 82,
+  "totalMs": 2282,
+  "effectiveMode": "extractive",
+  "fallbackReason": "timeout",
+  "retry": "manual",
+== E1 timeout isoliert 2
+  "ackMs": 75,
+  "totalMs": 2225,
+  "effectiveMode": "extractive",
+  "fallbackReason": "timeout",
+  "retry": "manual",
+== E1 timeout isoliert 3
+  "ackMs": 78,
+  "totalMs": 2255,
+  "effectiveMode": "extractive",
+  "fallbackReason": "timeout",
+  "retry": "manual",

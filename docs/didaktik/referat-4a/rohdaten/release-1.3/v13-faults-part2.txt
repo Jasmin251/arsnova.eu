@@ -1,0 +1,42 @@
+neue Sessions angelegt (Host-TTL 4 h)
+## E3 Summary LLM gestoppt
+   464 ms  extractive   unavailable       retry=manual  src=4  | Hervorgehobener Beleg: »Müssen wir den vierten Abschnitt für / Hervorgehobener Beleg: »Sollten wir eine Anwesenheitspflicht / Hervorgehobener Beleg: »Soll die Anwesenheit verpflichtend s / Hervorgehobener Beleg: »Ist Kapitel 4 klausurrelevant?«
+   419 ms  extractive   unavailable       retry=manual  src=4  | Hervorgehobener Beleg: »Müssen wir den vierten Abschnitt für / Hervorgehobener Beleg: »Sollten wir eine Anwesenheitspflicht / Hervorgehobener Beleg: »Soll die Anwesenheit verpflichtend s / Hervorgehobener Beleg: »Ist Kapitel 4 klausurrelevant?«
+   390 ms  extractive   unavailable       retry=manual  src=4  | Hervorgehobener Beleg: »Müssen wir den vierten Abschnitt für / Hervorgehobener Beleg: »Sollten wir eine Anwesenheitspflicht / Hervorgehobener Beleg: »Soll die Anwesenheit verpflichtend s / Hervorgehobener Beleg: »Ist Kapitel 4 klausurrelevant?«
+   403 ms  extractive   circuit_open      retry=manual  src=4  | Hervorgehobener Beleg: »Müssen wir den vierten Abschnitt für / Hervorgehobener Beleg: »Sollten wir eine Anwesenheitspflicht / Hervorgehobener Beleg: »Soll die Anwesenheit verpflichtend s / Hervorgehobener Beleg: »Ist Kapitel 4 klausurrelevant?«
+   385 ms  extractive   circuit_open      retry=manual  src=4  | Hervorgehobener Beleg: »Müssen wir den vierten Abschnitt für / Hervorgehobener Beleg: »Sollten wir eine Anwesenheitspflicht / Hervorgehobener Beleg: »Soll die Anwesenheit verpflichtend s / Hervorgehobener Beleg: »Ist Kapitel 4 klausurrelevant?«
+hotpath während Ausfall:
+{"n":20,"joinOk":20,"voteOk":20,"errors":[],"joinP50":26,"joinP95":41,"voteP50":13,"voteP95":31}
+## L1 Labels LLM gestoppt
+   168 ms  ready   -         fallbackUsed=False settlement=transient  | extractive:2:Können wir mehr Beispiele zur linearen R ; extractive:1:Ist Kapitel 4 klausurrelevant? ; extractive:2:Sollten wir eine Anwesenheitspflicht ein ; extractive:1:Müssen wir den vierten Abschnitt für die
+   173 ms  ready   -         fallbackUsed=False settlement=transient  | extractive:2:Können wir mehr Beispiele zur linearen R ; extractive:1:Ist Kapitel 4 klausurrelevant? ; extractive:2:Sollten wir eine Anwesenheitspflicht ein ; extractive:1:Müssen wir den vierten Abschnitt für die
+   142 ms  ready   -         fallbackUsed=False settlement=transient  | extractive:2:Können wir mehr Beispiele zur linearen R ; extractive:1:Ist Kapitel 4 klausurrelevant? ; extractive:2:Sollten wir eine Anwesenheitspflicht ein ; extractive:1:Müssen wir den vierten Abschnitt für die
+   144 ms  ready   -         fallbackUsed=False settlement=transient  | extractive:2:Können wir mehr Beispiele zur linearen R ; extractive:1:Ist Kapitel 4 klausurrelevant? ; extractive:2:Sollten wir eine Anwesenheitspflicht ein ; extractive:1:Müssen wir den vierten Abschnitt für die
+   158 ms  ready   -         fallbackUsed=False settlement=transient  | extractive:2:Können wir mehr Beispiele zur linearen R ; extractive:1:Ist Kapitel 4 klausurrelevant? ; extractive:2:Sollten wir eine Anwesenheitspflicht ein ; extractive:1:Müssen wir den vierten Abschnitt für die
+## E4 Summary ungültige Ausgabe (Testadapter)
+# garbage
+   483 ms  extractive   invalid_response  retry=manual  src=4  | Hervorgehobener Beleg: »Müssen wir den vierten Abschnitt für / Hervorgehobener Beleg: »Sollten wir eine Anwesenheitspflicht / Hervorgehobener Beleg: »Soll die Anwesenheit verpflichtend s / Hervorgehobener Beleg: »Ist Kapitel 4 klausurrelevant?«
+   407 ms  extractive   invalid_response  retry=manual  src=4  | Hervorgehobener Beleg: »Müssen wir den vierten Abschnitt für / Hervorgehobener Beleg: »Sollten wir eine Anwesenheitspflicht / Hervorgehobener Beleg: »Soll die Anwesenheit verpflichtend s / Hervorgehobener Beleg: »Ist Kapitel 4 klausurrelevant?«
+   406 ms  extractive   invalid_response  retry=manual  src=4  | Hervorgehobener Beleg: »Müssen wir den vierten Abschnitt für / Hervorgehobener Beleg: »Sollten wir eine Anwesenheitspflicht / Hervorgehobener Beleg: »Soll die Anwesenheit verpflichtend s / Hervorgehobener Beleg: »Ist Kapitel 4 klausurrelevant?«
+   399 ms  extractive   circuit_open      retry=manual  src=4  | Hervorgehobener Beleg: »Müssen wir den vierten Abschnitt für / Hervorgehobener Beleg: »Sollten wir eine Anwesenheitspflicht / Hervorgehobener Beleg: »Soll die Anwesenheit verpflichtend s / Hervorgehobener Beleg: »Ist Kapitel 4 klausurrelevant?«
+   388 ms  extractive   circuit_open      retry=manual  src=4  | Hervorgehobener Beleg: »Müssen wir den vierten Abschnitt für / Hervorgehobener Beleg: »Sollten wir eine Anwesenheitspflicht / Hervorgehobener Beleg: »Soll die Anwesenheit verpflichtend s / Hervorgehobener Beleg: »Ist Kapitel 4 klausurrelevant?«
+# schema
+   485 ms  extractive   invalid_response  retry=manual  src=4  | Hervorgehobener Beleg: »Müssen wir den vierten Abschnitt für / Hervorgehobener Beleg: »Sollten wir eine Anwesenheitspflicht / Hervorgehobener Beleg: »Soll die Anwesenheit verpflichtend s / Hervorgehobener Beleg: »Ist Kapitel 4 klausurrelevant?«
+   400 ms  extractive   invalid_response  retry=manual  src=4  | Hervorgehobener Beleg: »Müssen wir den vierten Abschnitt für / Hervorgehobener Beleg: »Sollten wir eine Anwesenheitspflicht / Hervorgehobener Beleg: »Soll die Anwesenheit verpflichtend s / Hervorgehobener Beleg: »Ist Kapitel 4 klausurrelevant?«
+   392 ms  extractive   invalid_response  retry=manual  src=4  | Hervorgehobener Beleg: »Müssen wir den vierten Abschnitt für / Hervorgehobener Beleg: »Sollten wir eine Anwesenheitspflicht / Hervorgehobener Beleg: »Soll die Anwesenheit verpflichtend s / Hervorgehobener Beleg: »Ist Kapitel 4 klausurrelevant?«
+   396 ms  extractive   circuit_open      retry=manual  src=4  | Hervorgehobener Beleg: »Müssen wir den vierten Abschnitt für / Hervorgehobener Beleg: »Sollten wir eine Anwesenheitspflicht / Hervorgehobener Beleg: »Soll die Anwesenheit verpflichtend s / Hervorgehobener Beleg: »Ist Kapitel 4 klausurrelevant?«
+   402 ms  extractive   circuit_open      retry=manual  src=4  | Hervorgehobener Beleg: »Müssen wir den vierten Abschnitt für / Hervorgehobener Beleg: »Sollten wir eine Anwesenheitspflicht / Hervorgehobener Beleg: »Soll die Anwesenheit verpflichtend s / Hervorgehobener Beleg: »Ist Kapitel 4 klausurrelevant?«
+## L5 Labels ungültige Ausgabe (Testadapter)
+# garbage
+   142 ms  ready   -         fallbackUsed=False settlement=complete  | extractive:2:Können wir mehr Beispiele zur linearen R ; extractive:1:Ist Kapitel 4 klausurrelevant? ; extractive:2:Sollten wir eine Anwesenheitspflicht ein ; extractive:1:Müssen wir den vierten Abschnitt für die
+   133 ms  ready   -         fallbackUsed=False settlement=complete  | extractive:2:Können wir mehr Beispiele zur linearen R ; extractive:1:Ist Kapitel 4 klausurrelevant? ; extractive:2:Sollten wir eine Anwesenheitspflicht ein ; extractive:1:Müssen wir den vierten Abschnitt für die
+   170 ms  ready   -         fallbackUsed=False settlement=complete  | extractive:2:Können wir mehr Beispiele zur linearen R ; extractive:1:Ist Kapitel 4 klausurrelevant? ; extractive:2:Sollten wir eine Anwesenheitspflicht ein ; extractive:1:Müssen wir den vierten Abschnitt für die
+# schema
+   137 ms  ready   -         fallbackUsed=False settlement=complete  | extractive:2:Können wir mehr Beispiele zur linearen R ; extractive:1:Ist Kapitel 4 klausurrelevant? ; extractive:2:Sollten wir eine Anwesenheitspflicht ein ; extractive:1:Müssen wir den vierten Abschnitt für die
+   166 ms  ready   -         fallbackUsed=False settlement=complete  | extractive:2:Können wir mehr Beispiele zur linearen R ; extractive:1:Ist Kapitel 4 klausurrelevant? ; extractive:2:Sollten wir eine Anwesenheitspflicht ein ; extractive:1:Müssen wir den vierten Abschnitt für die
+   165 ms  ready   -         fallbackUsed=False settlement=complete  | extractive:2:Können wir mehr Beispiele zur linearen R ; extractive:1:Ist Kapitel 4 klausurrelevant? ; extractive:2:Sollten wir eine Anwesenheitspflicht ein ; extractive:1:Müssen wir den vierten Abschnitt für die
+## L4 Encoder gestoppt (Kontrast)
+    74 ms  failed  -         fallbackUsed=True settlement=None  | None:2:lineare Regression ; None:1:Kapitel 4
+    85 ms  failed  -         fallbackUsed=True settlement=None  | None:2:lineare Regression ; None:1:Kapitel 4
+    71 ms  failed  -         fallbackUsed=True settlement=None  | None:2:lineare Regression ; None:1:Kapitel 4
+## Ende 15:37:25

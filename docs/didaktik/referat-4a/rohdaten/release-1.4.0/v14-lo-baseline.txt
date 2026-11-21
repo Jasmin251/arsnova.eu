@@ -1,0 +1,1 @@
+{"ms":31903,"status":"completed","retry":null,"appliedCount":2,"message":null,"before":2,"after":4,"confirmedUnchanged":true,"draftUnchanged":true,"newObjectives":["draft:Pi auf zwei Dezimalstellen runden.","draft:Ein Bild als echtes Foto oder KI-generiertes Bild identifizieren."]}

@@ -1,0 +1,1 @@
+{"manualSaveAfterBusy":"ok","objectives":["draft:Die Studierenden können zwei Beispiele aus dem Qui","confirmed:Die Studierenden können die Grundidee der Fallstud","confirmed:Die Studierenden können eine Hypothese zur Fallstu"]}

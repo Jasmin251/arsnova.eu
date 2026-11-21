@@ -1,0 +1,20 @@
+== E1 timeout summary
+{
+  "ackMs": 138,
+  "totalMs": 2333,
+  "polls": 8,
+  "status": "ready",
+  "effectiveMode": "extractive",
+  "attemptedMode": "full-context",
+  "fallbackReason": "source_changed",
+  "retry": "manual",
+  "statements": [
+    "Ist Kapitel 4 klausurrelevant?",
+    "Sollten wir eine Anwesenheitspflicht einführen?",
+    "Müssen wir den vierten Abschnitt für die Prüfung lernen?",
+    "Soll die Anwesenheit verpflichtend sein?"
+  ],
+  "sourceCount": 4,
+  "snapshotHash": "f0e5b3733fc6",
+  "modelVersion": "extractive-v2"
+}

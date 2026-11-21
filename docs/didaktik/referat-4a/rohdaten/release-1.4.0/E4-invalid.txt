@@ -1,0 +1,14 @@
+== E4 garbage
+  "totalMs": 447,
+  "status": "ready",
+  "effectiveMode": "extractive",
+  "fallbackReason": "invalid_response",
+  "retry": "manual",
+  "statements": [
+== E4 schema
+  "totalMs": 492,
+  "status": "ready",
+  "effectiveMode": "extractive",
+  "fallbackReason": "invalid_response",
+  "retry": "manual",
+  "statements": [

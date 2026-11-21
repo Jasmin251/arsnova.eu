@@ -1,0 +1,21 @@
+== E3 down 1
+  "totalMs": 457,
+  "effectiveMode": "extractive",
+  "fallbackReason": "unavailable",
+  "retry": "manual",
+== E3 down 2
+  "totalMs": 364,
+  "effectiveMode": "extractive",
+  "fallbackReason": "unavailable",
+  "retry": "manual",
+== E3 down 3
+  "totalMs": 383,
+  "effectiveMode": "extractive",
+  "fallbackReason": "unavailable",
+  "retry": "manual",
+== E3 down 4
+  "totalMs": 381,
+  "effectiveMode": "extractive",
+  "fallbackReason": "circuit_open",
+  "retry": "manual",
+{"n":20,"joinOk":20,"voteOk":20,"errors":[],"joinP50":18,"joinP95":30,"voteP50":11,"voteP95":29}

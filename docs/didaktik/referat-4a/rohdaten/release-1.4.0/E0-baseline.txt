@@ -1,0 +1,36 @@
+== summary baseline 1
+{
+  "ackMs": 130,
+  "totalMs": 19836,
+  "polls": 75,
+  "status": "ready",
+  "effectiveMode": "full-context",
+  "attemptedMode": "full-context",
+  "fallbackReason": null,
+  "retry": null,
+  "statements": [
+    "Prüfungsrelevanz des 4. Kapitels: Ist Kapitel 4 klausurrelevant?",
+    "Anwesenheitspflicht: Soll die Anwesenheit verpflichtend sein?"
+  ],
+  "sourceCount": 4,
+  "snapshotHash": "dfbf693d66cc",
+  "modelVersion": null
+}
+== summary baseline 2
+{
+  "ackMs": 79,
+  "totalMs": 11098,
+  "polls": 42,
+  "status": "ready",
+  "effectiveMode": "full-context",
+  "attemptedMode": "full-context",
+  "fallbackReason": null,
+  "retry": null,
+  "statements": [
+    "Prüfungsrelevanz des 4. Kapitels: Ist Kapitel 4 klausurrelevant?",
+    "Anwesenheitspflicht: Soll die Anwesenheit verpflichtend sein?"
+  ],
+  "sourceCount": 4,
+  "snapshotHash": "dfbf693d66cc",
+  "modelVersion": null
+}

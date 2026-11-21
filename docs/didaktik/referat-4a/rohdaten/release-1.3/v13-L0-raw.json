@@ -1,0 +1,87 @@
+{
+  "ms": 11005,
+  "status": "ready",
+  "fallbackUsed": false,
+  "labelSettlement": "complete",
+  "labelModelId": "unsloth/Qwen3-4B-Instruct-2507-GGUF@sha256:3605803b982cb64aead44f6c1b2ae36e3acdb41d8e46c8a94c6533bc4c67e597",
+  "entries": [
+    {
+      "label": "lineare Regression",
+      "origin": "model",
+      "members": 2
+    },
+    {
+      "label": "Ist Kapitel 4 klausurrelevant?",
+      "origin": "extractive",
+      "members": 1
+    },
+    {
+      "label": "Anwesenheitspflicht",
+      "origin": "model",
+      "members": 2
+    },
+    {
+      "label": "Müssen wir den vierten Abschnitt für die Prüfung lernen?",
+      "origin": "extractive",
+      "members": 1
+    }
+  ]
+}
+{
+  "ms": 10363,
+  "status": "ready",
+  "fallbackUsed": false,
+  "labelSettlement": "complete",
+  "labelModelId": "unsloth/Qwen3-4B-Instruct-2507-GGUF@sha256:3605803b982cb64aead44f6c1b2ae36e3acdb41d8e46c8a94c6533bc4c67e597",
+  "entries": [
+    {
+      "label": "lineare Regression",
+      "origin": "model",
+      "members": 2
+    },
+    {
+      "label": "Ist Kapitel 4 klausurrelevant?",
+      "origin": "extractive",
+      "members": 1
+    },
+    {
+      "label": "Anwesenheitspflicht",
+      "origin": "model",
+      "members": 2
+    },
+    {
+      "label": "Müssen wir den vierten Abschnitt für die Prüfung lernen?",
+      "origin": "extractive",
+      "members": 1
+    }
+  ]
+}
+{
+  "ms": 10104,
+  "status": "ready",
+  "fallbackUsed": false,
+  "labelSettlement": "complete",
+  "labelModelId": "unsloth/Qwen3-4B-Instruct-2507-GGUF@sha256:3605803b982cb64aead44f6c1b2ae36e3acdb41d8e46c8a94c6533bc4c67e597",
+  "entries": [
+    {
+      "label": "lineare Regression",
+      "origin": "model",
+      "members": 2
+    },
+    {
+      "label": "Ist Kapitel 4 klausurrelevant?",
+      "origin": "extractive",
+      "members": 1
+    },
+    {
+      "label": "Anwesenheitspflicht",
+      "origin": "model",
+      "members": 2
+    },
+    {
+      "label": "Müssen wir den vierten Abschnitt für die Prüfung lernen?",
+      "origin": "extractive",
+      "members": 1
+    }
+  ]
+}

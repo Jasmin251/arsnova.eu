@@ -1,0 +1,13 @@
+== E2 busy 1
+  "ackMs": 186,
+  "totalMs": 515,
+  "effectiveMode": "extractive",
+  "fallbackReason": "busy",
+  "retry": "manual",
+== E2 busy 2
+  "ackMs": 59,
+  "totalMs": 361,
+  "effectiveMode": "extractive",
+  "fallbackReason": "busy",
+  "retry": "manual",
+{"n":20,"joinOk":20,"voteOk":20,"errors":[],"joinP50":18,"joinP95":52,"voteP50":14,"voteP95":36}
